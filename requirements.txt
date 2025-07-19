@@ -1,0 +1,17 @@
+# Core Libraries
+pandas==2.1.4
+numpy==1.26.2
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.2
+
+# Machine Learning & Metrics
+scikit-learn==1.3.2
+xgboost==1.7.6
+
+# Colab & Upload
+google-colab==1.0.0
+
+# Optional (if you use progress bars or optimization)
+tqdm==4.66.1
