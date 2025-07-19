@@ -1,0 +1,58 @@
+# -----------------------------
+# OS-specific files
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# Python cache files
+# -----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+
+# -----------------------------
+# Jupyter Notebook checkpoints
+# -----------------------------
+.ipynb_checkpoints/
+
+# -----------------------------
+# Virtual environment folders
+# -----------------------------
+venv/
+env/
+.venv/
+
+# -----------------------------
+# Large Data files
+# -----------------------------
+data/*.csv
+*.zip
+*.tar.gz
+
+# -----------------------------
+# Logs and temp files
+# -----------------------------
+*.log
+*.tmp
+*.bak
+
+# -----------------------------
+# Colab-specific files
+# -----------------------------
+*.json
+
+# -----------------------------
+# IDE and editor settings
+# -----------------------------
+.vscode/
+.idea/
+
+# -----------------------------
+# Output files (generated during analysis)
+# -----------------------------
+results/*.png
+results/*.csv
