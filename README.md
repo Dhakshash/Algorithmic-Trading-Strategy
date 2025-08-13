@@ -112,7 +112,6 @@ The workflow integrates robust signal generation, advanced risk management throu
   - `Portfolio Comparison.png` – Strategy-level performance visualization  
   - `Grid Search.png` – Parameter tuning visualization for SL/TP thresholds  
   - `Final.png` – Sharpe-weighted blended portfolio result
-  - `COVID recovery.png` 
 ---
 
 
